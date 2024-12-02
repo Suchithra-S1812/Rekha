@@ -6,4 +6,7 @@ Merging
 two branches are merged
 master and feature-branch
 r
-S
+s
+i am rekha D/O suresh
+from chithradurga 
+hosadurga
