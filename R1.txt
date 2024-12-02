@@ -1,2 +1,7 @@
 Experiment:1
 explains the besics
+
+Experiment:2
+Merging
+two branches are merged
+master and feature-branch
