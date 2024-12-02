@@ -1,13 +1,8 @@
 Experiment:1
 explains the besics
-<<<<<<< HEAD
 
 Experiment:2
 Merging
 two branches are merged
 master and feature-branch
-hiiii
-=======
-Experiment:2
-stash msgs
->>>>>>> 1aea79af881aedf1480948e0669a68afbea6f0f1
+
