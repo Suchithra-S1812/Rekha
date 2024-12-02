@@ -7,3 +7,4 @@ two branches are merged
 master and feature-branch
 Stash msg
 hiii
+hello
