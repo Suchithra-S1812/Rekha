@@ -6,3 +6,4 @@ Merging
 two branches are merged
 master and feature-branch
 new file
+k
